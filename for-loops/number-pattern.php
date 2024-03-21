@@ -1,16 +1,16 @@
 <?php
 // #1
-$limit = 5;
-for ($i=1;$i<=$limit;$i++){
-$inc=$limit-1;
-$print = $i;
-echo $i;
-for($j=2;$j<=$i;$j++){
-echo $print =$print+$inc;
-$inc--;
-}
-echo '<br>';
-}
+// $limit = 5;
+// for ($i=1;$i<=$limit;$i++){
+// $inc=$limit-1;
+// $print = $i;
+// echo $i;
+// for($j=2;$j<=$i;$j++){
+// echo $print =$print+$inc;
+// $inc--;
+// }
+// echo '<br>';
+// }
 
 // Output of #1
 // 1
