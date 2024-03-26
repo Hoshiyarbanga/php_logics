@@ -1,0 +1,225 @@
+{
+    "data": {
+        "productId": "c2d1b3cf-9c74-4cd0-9990-a533010c5c09",
+        "productName": "DuoDERM CGF Dressing (Hydrocolloid Dressing)",
+        "brand": {
+            "brandId": "006b69e6-9c25-4506-9805-a53300fdaee0",
+            "brandName": "DuoDERM CGF Dressing"
+        },
+        "productPacks": [
+            {
+                "productPackId": "4df0e905-14ac-4f00-8fda-a53301170aee",
+                "productPackName": "DuoDERM CGF Dressing (Hydrocolloid Dressing) (10 cm x 10 cm; 187660) [5]",
+                "productPackItems": [
+                    {
+                        "itemName": "DuoDERM CGF Dressing (Hydrocolloid Dressing)",
+                        "dosageForm": "gauze",
+                        "hl7DosageForm": "Gauze"
+                    }
+                ]
+            },
+            {
+                "productPackId": "e467211b-bc90-46ee-a467-a53301170b08",
+                "productPackName": "DuoDERM CGF Dressing (Hydrocolloid Dressing) (15 cm x 15 cm; 187661) [5]",
+                "productPackItems": [
+                    {
+                        "itemName": "DuoDERM CGF Dressing (Hydrocolloid Dressing)",
+                        "dosageForm": "gauze",
+                        "hl7DosageForm": "Gauze"
+                    }
+                ]
+            },
+            {
+                "productPackId": "7900d7bc-670d-4c09-9b4e-a53301170b21",
+                "productPackName": "DuoDERM CGF Dressing (Hydrocolloid Dressing) (15 cm x 20 cm; 187643) [5]",
+                "productPackItems": [
+                    {
+                        "itemName": "DuoDERM CGF Dressing (Hydrocolloid Dressing)",
+                        "dosageForm": "gauze",
+                        "hl7DosageForm": "Gauze"
+                    }
+                ]
+            },
+            {
+                "productPackId": "819b3574-dfa6-44d5-a803-a53301170b43",
+                "productPackName": "DuoDERM CGF Dressing (Hydrocolloid Dressing) (20 cm x 20 cm; 187662) [5]",
+                "productPackItems": [
+                    {
+                        "itemName": "DuoDERM CGF Dressing (Hydrocolloid Dressing)",
+                        "dosageForm": "gauze",
+                        "hl7DosageForm": "Gauze"
+                    }
+                ]
+            },
+            {
+                "productPackId": "56db114a-1635-4d56-bea5-a53301170b63",
+                "productPackName": "DuoDERM CGF Dressing (Hydrocolloid Dressing) (20 cm x 30 cm; 187644) [5]",
+                "productPackItems": [
+                    {
+                        "itemName": "DuoDERM CGF Dressing (Hydrocolloid Dressing)",
+                        "dosageForm": "gauze",
+                        "hl7DosageForm": "Gauze"
+                    }
+                ]
+            }
+        ],
+        "offMarket": false,
+        "roas": [
+            "Topical\/Cutaneous"
+        ],
+        "mimsClasses": [
+            "Leg ulcer preparations",
+            "Surgical antiseptics and applications"
+        ],
+        "atcCodes": [
+            "V07AY"
+        ],
+        "productImages": [],
+        "indications": [
+            "Wound dressing"
+        ],
+        "acgs": [],
+        "vp": {
+            "vpId": "5d971e09-c87f-43ea-90c9-ef9cd698edb6",
+            "vpName": "Wound dressing, hydrocolloid Dressing"
+        },
+        "vis": [
+            {
+                "viId": "48604cf5-df6d-4eb7-b719-2e624841daf6",
+                "viName": "Wound dressing, hydrocolloid Dressing",
+                "molecules": []
+            }
+        ],
+        "monographs": [
+            {
+                "monographId": "6fef5212-17b0-49e6-a7be-a5330121407e",
+                "monographType": "AU Brief Monograph"
+            }
+        ],
+        "cmis": [],
+        "blackTriangle": false,
+        "poisonClassification": {
+            "poisonClasses": [
+                "Unscheduled"
+            ],
+            "poisonClassType": "AU Poison Schedule"
+        },
+        "productRegistration": {
+            "registrationNumbers": [
+                "157332"
+            ],
+            "registrationNumberType": "ARTG"
+        },
+        "pregnancyCategory": null,
+        "pbs": [
+            {
+                "pbsCode": "4897R",
+                "pbsType": "RPBS",
+                "prescriberTypes": [
+                    "MP"
+                ],
+                "restrictions": [
+                    {
+                        "restrictionType": "Unrestricted",
+                        "restrictionPreview": null,
+                        "streamlinedCode": null
+                    }
+                ],
+                "repeats": "1",
+                "maxQtyPacks": "2.00",
+                "maxQtyUnits": "2",
+                "pbsManufacturerCodes": [
+                    "CC"
+                ]
+            },
+            {
+                "pbsCode": "4920Y",
+                "pbsType": "RPBS",
+                "prescriberTypes": [
+                    "MP"
+                ],
+                "restrictions": [
+                    {
+                        "restrictionType": "Unrestricted",
+                        "restrictionPreview": null,
+                        "streamlinedCode": null
+                    }
+                ],
+                "repeats": "1",
+                "maxQtyPacks": "2.00",
+                "maxQtyUnits": "2",
+                "pbsManufacturerCodes": [
+                    "CC"
+                ]
+            }
+        ],
+        "amt": [
+            {
+                "tpCode": "61271000168104",
+                "tpName": "Duoderm CGF (H7660)",
+                "tpps": [
+                    {
+                        "tppCode": "49373011000036105",
+                        "tppName": "Duoderm CGF (H7660) 10 cm x 10 cm dressing, 5"
+                    }
+                ],
+                "mpps": [
+                    {
+                        "mppCode": "51347011000036101",
+                        "mppName": "dressing hydrocolloid superficial wound moderate exudate 10 cm x 10 cm dressing, 5"
+                    }
+                ]
+            },
+            {
+                "tpCode": "62491000168106",
+                "tpName": "Duoderm CGF (H7662)",
+                "tpps": [
+                    {
+                        "tppCode": "49388011000036105",
+                        "tppName": "Duoderm CGF (H7662) 20 cm x 20 cm dressing, 5"
+                    }
+                ],
+                "mpps": [
+                    {
+                        "mppCode": "51361011000036100",
+                        "mppName": "dressing hydrocolloid superficial wound moderate exudate 20 cm x 20 cm dressing, 5"
+                    }
+                ]
+            }
+        ],
+        "aip": {
+            "lemi": true,
+            "lemiRecommendation": "Recommended to be prescribed by brand for practicality and safety (non-medicinal:  Medical Device)",
+            "lmbc": false
+        },
+        "stateSchedules": [],
+        "rtpmStates": [],
+        "airCode": null,
+        "drowsy": null,
+        "prescription": false,
+        "sportCategory": {
+            "categoryCode": "P",
+            "additionalNote": []
+        },
+        "qtyList": [
+            {
+                "key": "2",
+                "value": "2"
+            },
+            {
+                "key": "manual",
+                "value": "Manually Enter Qty"
+            }
+        ],
+        "maxQty": "2",
+        "lmbc_msg": "",
+        "lmbc": false,
+        "check_brand_name": true,
+        "brandName": "Wound dressing, hydrocolloid Dressing",
+        "drugName": "Wound dressing, hydrocolloid Dressing",
+        "name": "DuoDERM CGF Dressing",
+        "strength": ""
+    },
+    "message": "API complted succesfully.",
+    "status": 200
+}
